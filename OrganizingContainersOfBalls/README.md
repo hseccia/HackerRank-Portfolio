@@ -1,6 +1,8 @@
-# Birthday Cake Candles Problem
-Difficulty Level: Easy
+# Organizing Containers of Balls Problem
+Difficulty Level: Medium
 
-Algorithms Stragies Used: Linear Search
+Language Used: C++
 
-Instructions to Test/Confirm: https://www.hackerrank.com/challenges/birthday-cake-candles/problem, copy-paste CPP file into coding area or use "Upload code as file"
+Algorithms Stragies Used: Sorting, Iteration 
+
+Instructions to Test/Confirm: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem, copy-paste CPP file into coding area or use "Upload code as file"
