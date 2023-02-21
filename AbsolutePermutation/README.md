@@ -1,6 +1,8 @@
-# Birthday Cake Candles Problem
-Difficulty Level: Easy
+# Absolute Permutation Problem
+Difficulty Level: Medium
 
-Algorithms Stragies Used: Linear Search
+Language Used: C++
 
-Instructions to Test/Confirm: https://www.hackerrank.com/challenges/birthday-cake-candles/problem, copy-paste CPP file into coding area or use "Upload code as file"
+Algorithms Stragies Used: Maps, Mathematical Algorithms, Linear Search
+
+Instructions to Test/Confirm: https://www.hackerrank.com/challenges/absolute-permutation/problem, copy-paste CPP file into coding area or use "Upload code as file"
