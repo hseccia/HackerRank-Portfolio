@@ -4,4 +4,4 @@ A collection of my custom algorithm solutions to problems from HackerRank. All s
 PDF copies of each problem specifications are found in each folder.
 
 Easy problems solved: 2
-Medium problems solved: 2
+Medium problems solved: 3
